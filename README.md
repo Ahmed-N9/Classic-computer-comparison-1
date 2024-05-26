@@ -28,11 +28,14 @@
 -8GB RAM
 -512GB SSD
 
-| Ram        | SSD           | CPU  |
-| ------------- |:-------------:| -----:|
-|    8 GB   | 512GB   | 1.1 GHz Intel Core i5 |
-|       |       |   |
-|  |       |     |
+Ram | SSD | CPU
+--- | --- | ---
+*Memory* | `storage` | **Processor**
+8 GB | 512 GB | 1.1 GHz Core i5
+
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=koPg_DZUfOc" target="_blank"><img src="http://img.youtube.com/vi/koPg_DZUfOc/0.jpg" alt="Talk about the macbook" width="240" height="180" border="10" /></a>
 
 
 ## Overall the Macbook is the best, Heres a link of the full specs list
